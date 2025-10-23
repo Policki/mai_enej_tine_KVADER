@@ -1,0 +1,7 @@
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\bin\Debug\vaja_6_2.exe.config
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\bin\Debug\vaja_6_2.exe
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\bin\Debug\vaja_6_2.pdb
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\obj\Debug\vaja_6_2.csproj.AssemblyReference.cache
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\obj\Debug\vaja_6_2.csproj.CoreCompileInputs.cache
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\obj\Debug\vaja_6_2.exe
+C:\Users\enej.policnik.20646\Desktop\mai_enej_tine_KVADER-main\vaja_6_2\vaja_6_2\obj\Debug\vaja_6_2.pdb
